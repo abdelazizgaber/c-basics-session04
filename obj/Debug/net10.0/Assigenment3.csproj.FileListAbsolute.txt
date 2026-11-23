@@ -1,0 +1,14 @@
+C:\C#-Asignments\Assigenment3\Assigenment3\bin\Debug\net10.0\Assigenment3.exe
+C:\C#-Asignments\Assigenment3\Assigenment3\bin\Debug\net10.0\Assigenment3.deps.json
+C:\C#-Asignments\Assigenment3\Assigenment3\bin\Debug\net10.0\Assigenment3.runtimeconfig.json
+C:\C#-Asignments\Assigenment3\Assigenment3\bin\Debug\net10.0\Assigenment3.dll
+C:\C#-Asignments\Assigenment3\Assigenment3\bin\Debug\net10.0\Assigenment3.pdb
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\Assigenment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\Assigenment3.AssemblyInfoInputs.cache
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\Assigenment3.AssemblyInfo.cs
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\Assigenment3.csproj.CoreCompileInputs.cache
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\Assigenment3.dll
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\refint\Assigenment3.dll
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\Assigenment3.pdb
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\Assigenment3.genruntimeconfig.cache
+C:\C#-Asignments\Assigenment3\Assigenment3\obj\Debug\net10.0\ref\Assigenment3.dll
